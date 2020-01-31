@@ -1,0 +1,11 @@
+fr/afcepf/al34/xs/dao/DeviseDao.class
+fr/afcepf/al34/xs/rest/DeviseRestCtrl.class
+fr/afcepf/al34/xs/rest/DeviseRestPrivateCtrl.class
+fr/afcepf/al34/xs/dto/ResDelete.class
+fr/afcepf/al34/xs/entity/Pays.class
+fr/afcepf/al34/xs/service/DeviseService.class
+fr/afcepf/al34/xs/init/InitDataSet.class
+fr/afcepf/al34/xs/entity/Devise.class
+fr/afcepf/al34/xs/MySpringBootApplication.class
+fr/afcepf/al34/xs/exception/MyEntityNotFoundException.class
+fr/afcepf/al34/xs/service/DeviseServiceImpl.class

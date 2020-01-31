@@ -1,0 +1,11 @@
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/rest/DeviseRestCtrl.java
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/entity/Devise.java
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/entity/Pays.java
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/MySpringBootApplication.java
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/rest/DeviseRestPrivateCtrl.java
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/dto/ResDelete.java
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/exception/MyEntityNotFoundException.java
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/service/DeviseService.java
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/init/InitDataSet.java
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/dao/DeviseDao.java
+/vagrant/webServiceRest/src/main/java/fr/afcepf/al34/xs/service/DeviseServiceImpl.java
